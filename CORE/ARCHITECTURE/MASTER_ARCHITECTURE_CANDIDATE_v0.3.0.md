@@ -16,7 +16,7 @@ Esta versión formaliza tres decisiones arquitectónicas:
 2. **INTEGRATED:** mantener SKILLS, PROMPTS y ROUTINES como módulos diferenciados dentro de la capa lógica SKILLS ENGINE.
 3. **CROSS:** definir GOVERNANCE y PROJECTS como dominios transversales que se relacionan con todas las capas, sin convertirse en capas adicionales.
 
-La decisión fue comunicada explícitamente por el propietario el 2026-11-02. Esta versión documenta esa selección y la convierte en una propuesta coherente para revisión. La aprobación de las tres decisiones no equivale a aprobar automáticamente este documento completo como baseline final.
+La decisión fue comunicada explícitamente por el propietario el 2026-11-01. Esta versión documenta esa selección y la convierte en una propuesta coherente para revisión. La aprobación de las tres decisiones no equivale a aprobar automáticamente este documento completo como baseline final.
 
 ## 2. Naturaleza y límites del sistema
 
